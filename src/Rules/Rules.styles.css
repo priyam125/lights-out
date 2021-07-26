@@ -1,0 +1,9 @@
+.topRightFixed {
+    position: fixed;
+    top: 0;
+    right: 0;
+    padding: 10px;
+    cursor: pointer;
+    transition: all 1s ease;
+    z-index: 3;
+  }

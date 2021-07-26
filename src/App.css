@@ -5,3 +5,10 @@
   justify-content: center;
   height: 100vh;
 }
+
+.topRightFixed {
+  position: fixed;
+  top: 0;
+  right: 0;
+  padding: 6px;
+}
