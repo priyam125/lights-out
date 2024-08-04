@@ -82,3 +82,10 @@ table tr:last-child td:last-child {
     color: #146c80;
   }
 }
+
+
+@media (max-width: 640px) {
+  .board-container {
+    padding: 12px;
+  }
+}
